@@ -1,4 +1,4 @@
-# dex-fragmentation
+# 📉 Dex Fragmentation
 
 A model of a **competitive decentralized exchange (DEX) environment** where **liquidity providers** strategically minimize trading costs for **noise traders**, while accounting for the presence of **front-runners**. The equilibrium results in **multiple liquidity pools** with varying fee rates, depending on the composition of traders in each pool.
 
